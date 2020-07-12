@@ -1,0 +1,33 @@
+
+
+/* navbar */
+
+#links a{
+    color: white;
+}
+.nav-btn{
+    border: 1px solid white;
+    color: white;
+}
+.my-dropdown{
+    border: none;
+    margin-top: -1px;
+}
+.my-dropdown a:hover{
+    background-color: #9b9bf8;
+}
+.dropdown-link:hover .my-dropdown{
+    display: block;
+}
+
+
+
+/* card */
+
+.single-card{
+    border: none;
+}
+.single-card-footer{
+    border: none;
+    
+}
